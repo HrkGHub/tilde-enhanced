@@ -110,7 +110,7 @@ const CONFIG = {
       name: "DIM",
       key: "dim",
       url: "https://beta.destinyitemmanager.com",
-      color: "linear-gradient(135deg, #1DA1F2, #19608F)",
+      color: "linear-gradient(135deg, #393956 , #161627 )",
       icon: "",
       quickLaunch: true,
     },
@@ -227,7 +227,7 @@ const CONFIG = {
   /**
    * Show keys instead of icons
    */
-  showKeys: false,
+  showKeys: true,
 
   /**
    * The delimiter between a command key and your search query. For example,
