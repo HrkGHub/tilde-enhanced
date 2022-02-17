@@ -55,7 +55,7 @@ const CONFIG = {
     },
 
     {
-      category: "Fun",
+      category: "Media",
       name: "YouTube",
       key: "y",
       url: "https://youtube.com",
@@ -65,7 +65,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: "Fun",
+      category: "Media",
       name: "Reddit",
       key: "r",
       url: "https://reddit.com",
@@ -75,7 +75,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: "Fun",
+      category: "Media",
       name: "Twitch",
       key: "tw",
       url: "https://www.twitch.tv",
@@ -86,7 +86,7 @@ const CONFIG = {
     },
 
     {
-      category: "Other",
+      category: "Media",
       name: "Twitter",
       key: "t",
       url: "https://www.twitter.com",
@@ -96,7 +96,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: "Other",
+      category: "Media",
       name: "Notion",
       key: "ns",
       url: "https://www.notion.so",
@@ -156,6 +156,34 @@ const CONFIG = {
       key: "ap",
       url: "https://mijago.github.io/D2ArmorPicker/#/v2",
       color: "linear-gradient(135deg, #FFF, #3F3F3F)",
+      icon: "",
+      quickLaunch: true,
+    },
+
+    {
+      category: "Warframe",
+      name: "Wiki",
+      key: "ww",
+      url: "https://warframe.fandom.com/wiki/WARFRAME_Wiki",
+      color: "linear-gradient(135deg, #FFF, #afd8ff)",
+      icon: "",
+      quickLaunch: true,
+    },
+    {
+      category: "Warframe",
+      name: "Tenno.Tools",
+      key: "tt",
+      url: "https://tenno.tools/",
+      color: "linear-gradient(135deg, #FFF, #1f2c34)",
+      icon: "",
+      quickLaunch: true,
+    },
+    {
+      category: "Warframe",
+      name: "Beginner 2021",
+      key: "wb",
+      url: "https://www.youtube.com/watch?v=FURvOjv3teI&list=PLUUaJNS7yZIEDRsDQQ3mlOnTAGMeg7r9t",
+      color: "linear-gradient(135deg, #FFF, #1f2c34)",
       icon: "",
       quickLaunch: true,
     },
